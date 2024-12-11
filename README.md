@@ -20,10 +20,8 @@ Learning algorithms.
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Training accuracy has gone up by 10%.
+- Testing Precision and recall values of type_h have gone up by 4% by compromising 'type_s' and 'normal'.
 
 
 
@@ -36,21 +34,11 @@ Learning algorithms.
 - stats model
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Prediction of patients with their current biomechanics.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@githubsingh46] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
