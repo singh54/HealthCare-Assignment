@@ -1,23 +1,23 @@
 # HealthCare-Assignment
-# Project Name
-> Outline a brief description of your project.
+# Context
+>  Medical research university X is undergoing a deep research on patients with certain conditions.  University has an internal AI team. 
+Due to confidentiality the patient’s details and the conditions are masked by  the client by providing different datasets to the AI team for 
+developing a AIML model which can predict the  condition of the patient depending on the received test results. 
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Project Objective](#Project-Objective)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+##  PROJECT OBJECTIVE:
+-  To Demonstrate the ability to fetch, process and leverage data to generate useful predictions  by training Supervised 
+Learning algorithms. 
+
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -25,13 +25,16 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook
+- python
+- pandas
+- numpy
+- scipy
+- stats model
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
